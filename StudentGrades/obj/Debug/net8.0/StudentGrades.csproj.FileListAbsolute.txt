@@ -1,0 +1,15 @@
+C:\Users\Maria\Desktop\Repos\StudentGrades\StudentGrades\obj\Debug\net8.0\StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Maria\Desktop\Repos\StudentGrades\StudentGrades\obj\Debug\net8.0\StudentGrades.AssemblyInfoInputs.cache
+C:\Users\Maria\Desktop\Repos\StudentGrades\StudentGrades\obj\Debug\net8.0\StudentGrades.AssemblyInfo.cs
+C:\Users\Maria\Desktop\Repos\StudentGrades\StudentGrades\obj\Debug\net8.0\StudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\Maria\Desktop\Repos\StudentGrades\StudentGrades\obj\Debug\net8.0\StudentGrades.sourcelink.json
+C:\Users\Maria\Desktop\Repos\StudentGrades\StudentGrades\bin\Debug\net8.0\StudentGrades.exe
+C:\Users\Maria\Desktop\Repos\StudentGrades\StudentGrades\bin\Debug\net8.0\StudentGrades.deps.json
+C:\Users\Maria\Desktop\Repos\StudentGrades\StudentGrades\bin\Debug\net8.0\StudentGrades.runtimeconfig.json
+C:\Users\Maria\Desktop\Repos\StudentGrades\StudentGrades\bin\Debug\net8.0\StudentGrades.dll
+C:\Users\Maria\Desktop\Repos\StudentGrades\StudentGrades\bin\Debug\net8.0\StudentGrades.pdb
+C:\Users\Maria\Desktop\Repos\StudentGrades\StudentGrades\obj\Debug\net8.0\StudentGrades.dll
+C:\Users\Maria\Desktop\Repos\StudentGrades\StudentGrades\obj\Debug\net8.0\refint\StudentGrades.dll
+C:\Users\Maria\Desktop\Repos\StudentGrades\StudentGrades\obj\Debug\net8.0\StudentGrades.pdb
+C:\Users\Maria\Desktop\Repos\StudentGrades\StudentGrades\obj\Debug\net8.0\StudentGrades.genruntimeconfig.cache
+C:\Users\Maria\Desktop\Repos\StudentGrades\StudentGrades\obj\Debug\net8.0\ref\StudentGrades.dll
